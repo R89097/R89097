@@ -5,7 +5,6 @@
 - Interested in software engineering, AI, data-driven systems, and cloud deployment
 - Experience with full-stack web development, databases, authentication, testing, and UI/UX
 - Currently building Skill Quest, a gamified learning platform
-- Based in Perth, Western Australia
 
 ## Tech Stack
 
