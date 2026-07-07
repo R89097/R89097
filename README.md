@@ -1,9 +1,4 @@
 # Hi, I'm Rosie Wang 👋
-
-I'm an Artificial Intelligence student at the University of Western Australia with interests in software engineering, full-stack development, data analysis, AI, and educational technology.
-
-I enjoy building practical, user-focused systems that combine clean software design with real-world impact. My projects include full-stack web applications, Java simulation systems, graphics programming, and gamified learning platforms.
-
 ## About Me
 
 - Studying Bachelor of Advanced Computer Science, majoring in Artificial Intelligence
